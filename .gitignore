@@ -1,0 +1,8 @@
+/lib
+/_deps
+**/CMakeFiles
+/bin
+CMakeCache.txt
+cmake_install.cmake
+21Z-EADS-TASK2-MILLER-ARTUR
+libsequence.a
